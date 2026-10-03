@@ -1,12 +1,16 @@
 # UK Sponsorship Application Intelligence Workflow
 
-A role agnostic AI application workflow for professionals applying for UK jobs who require Skilled Worker visa sponsorship.
+A role agnostic and model agnostic AI application workflow for professionals applying for UK jobs who require Skilled Worker visa sponsorship.
 
 The workflow combines sponsorship verification, opportunity screening, job description analysis, evidence mapping, CV tailoring and recruiter level quality checks into one structured application process.
 
 The profession changes.
 
-The methodology does not.
+The AI platform can change.
+
+The methodology stays the same.
+
+The framework has been structured for use with both ChatGPT and Claude and is not dependent on one specific AI model.
 
 A marketer, data scientist, software engineer, product manager, finance professional, HR professional or candidate from another field can use the same workflow by replacing only their own professional context, Master CV and target opportunity.
 
@@ -56,8 +60,9 @@ The workflow follows this sequence:
 10. Challenge the resulting CV from a recruiter perspective
 11. Compare the candidate against realistic competition
 12. Identify remaining gaps
-13. Check important claims for factual accuracy
-14. Produce the final application assessment
+13. Recheck sponsorship where required
+14. Check important claims for factual accuracy
+15. Produce the final application assessment
 
 The objective is not to make every candidate appear suitable for every vacancy.
 
@@ -75,6 +80,8 @@ This workflow is designed for candidates who:
 * Want their CV tailored using verified evidence
 * Want realistic feedback rather than automatic encouragement to apply
 * Want professional capability and practical hiring difficulty assessed separately
+* Want a workflow that can be used across different professions
+* Want a methodology that can work across AI platforms such as ChatGPT and Claude
 
 ## Core Principle
 
