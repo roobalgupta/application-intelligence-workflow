@@ -12,62 +12,71 @@ Do not begin by rewriting the CV.
 
 Sponsorship viability must be assessed before significant application tailoring begins.
 
-# Required Inputs
+## Required Inputs
 
 Obtain:
 
-1. The completed candidate setup from `01_user_setup.md`
-2. The candidate's Master CV
-3. The complete job description
+1. Completed Candidate Setup
+2. Master CV
+3. Complete job description
 4. Employer name
-5. Job posting link where available
+5. Original job posting link where available
 6. Salary where stated
 7. Location
 8. Any sponsorship or right to work wording included in the vacancy
 
+The AI should also have access to:
+
+* `03_cv_tailoring_rules.md`
+* `04_recruiter_reality_check.md`
+* `05_gap_and_factuality_check.md`
+
 If important information is unavailable, identify the uncertainty rather than assuming an answer.
 
-# Source Hierarchy for Sponsorship Verification
+## Source Hierarchy for Sponsorship Verification
 
 Where current web access is available, prioritise:
 
-1. Official UK government sources
-2. The employer's official careers website
-3. The original job advertisement
-4. Official employer immigration or recruitment information
-5. Reliable secondary sources only where additional context is needed
+1. Official UK government information
+2. The official UK register of licensed worker sponsors
+3. The employer's official careers website
+4. The original job advertisement
+5. Official employer recruitment or immigration information
+6. Reliable secondary sources only where additional context is genuinely useful
 
-Do not rely on outdated sponsor lists or search snippets when a current official source can be checked.
+Do not rely on outdated sponsor lists or search snippets when current official information can be checked.
+
+If current web access is unavailable, state that sponsorship cannot be verified reliably and do not present an unverified result as confirmed.
 
 # Stage 1: Sponsorship Verification
 
-Complete this stage before detailed CV tailoring.
+Complete this stage before detailed professional analysis or CV tailoring.
 
 ## 1. Employer Sponsor Licence Check
 
-Verify whether the employer can be identified on the current official UK Register of Licensed Sponsors.
+Verify whether the employer can be reliably identified on the current official UK register of licensed worker sponsors.
 
-Check carefully for:
+Check:
 
 * Legal organisation name
 * Trading name
-* Parent or subsidiary entity
+* Parent organisation
+* Subsidiary
 * Relevant UK legal entity
 * Location where useful for disambiguation
-* Worker sponsorship route
-* Current status where available
+* Relevant worker route where available
 
-Do not assume that the brand name shown on a job advert is necessarily the legal entity appearing on the sponsor register.
+Do not assume that the brand name displayed in a vacancy is necessarily the legal employing entity.
 
-Classify the employer as:
+Classify the result as:
 
 ### Confirmed Licensed Sponsor
 
-A sufficiently reliable match has been identified on the current official register.
+A sufficiently reliable current match has been identified.
 
 ### Possible Entity Match
 
-A possible parent, subsidiary, trading name or related legal entity appears, but the relationship requires confirmation.
+A parent, subsidiary, trading name or related entity appears to match, but the relationship requires confirmation.
 
 ### Not Found on Current Register
 
@@ -75,72 +84,122 @@ No sufficiently reliable current match has been identified.
 
 ### Unable to Verify
 
-The information available is insufficient to reach a reliable conclusion.
+Available information is insufficient.
+
+Record:
+
+Employer brand:
+
+[RESULT]
+
+Legal entity matched:
+
+[RESULT]
+
+Sponsor status:
+
+[RESULT]
+
+Source:
+
+[SOURCE]
+
+Date checked:
+
+[DATE]
+
+Confidence:
+
+[High / Moderate / Low]
+
+Notes:
+
+[RESULT]
+
+If the brand name is not found, investigate plausible legal entities before concluding that the employer is not licensed.
+
+Do not treat an unverified related company as confirmed.
 
 ## 2. Vacancy Sponsorship Check
 
 Review the specific job advertisement and official employer information.
 
-Look for language such as:
+Look for wording relating to:
 
-* Skilled Worker sponsorship available
-* Visa sponsorship available
-* Sponsorship can be considered
-* Applicants requiring sponsorship are welcome
+* Skilled Worker sponsorship
+* Visa sponsorship
+* Sponsorship consideration
 * Right to work requirements
-* Must already have the right to work in the UK
-* Must have unrestricted right to work
-* We cannot provide sponsorship
-* Sponsorship is not available
-* This role is not eligible for sponsorship
+* Existing UK work rights
+* Unrestricted work rights
+* Sponsorship exclusions
+* Role eligibility for sponsorship
 
 Classify the vacancy as:
 
 ### Confirmed Sponsorship Available
 
-The employer explicitly indicates that sponsorship is available for this vacancy or candidate group.
+The employer explicitly indicates that sponsorship is available for this vacancy or relevant candidate group.
 
 ### Sponsorship Appears Possible
 
-There is credible evidence suggesting that sponsorship may be considered, but it is not guaranteed.
+Credible evidence suggests sponsorship may be considered, but it is not guaranteed.
 
 ### Sponsorship Not Stated
 
-The employer is licensed or appears capable of sponsoring, but the vacancy does not clearly address sponsorship.
+The vacancy does not clearly address sponsorship.
 
 ### Sponsorship Appears Unlikely
 
-The wording creates a meaningful concern but does not completely rule sponsorship out.
+The wording creates a meaningful concern without completely ruling sponsorship out.
 
 ### Explicitly No Sponsorship
 
 The vacancy or official employer source clearly states that sponsorship is unavailable.
 
+Record:
+
+Vacancy sponsorship position:
+
+[RESULT]
+
+Source:
+
+[SOURCE]
+
+Date checked:
+
+[DATE]
+
+Confidence:
+
+[High / Moderate / Low]
+
+Relevant wording or summary:
+
+[RESULT]
+
 ## 3. Skilled Worker Role Viability
 
-Where sufficient information is available, assess whether the role appears broadly compatible with current Skilled Worker requirements.
+Where sufficient information exists, assess whether the role appears broadly compatible with current Skilled Worker requirements.
 
-Use current official UK government guidance.
+Use current official UK government information.
 
 Consider where relevant:
 
 * Whether the role appears to correspond to an eligible occupation
-* Appropriate occupation code where it can be identified reliably
-* Salary stated in the vacancy
+* Occupation code where it can be identified reliably
+* Salary stated
 * Current applicable salary requirements
 * Current going rate requirements
-* Any relevant current concessions or exceptions
+* Relevant current exceptions or concessions
 * Candidate circumstances where they materially affect eligibility
 
-Do not hardcode immigration thresholds into this repository.
+Do not hardcode immigration thresholds into the workflow.
 
-UK immigration rules can change.
+Do not guess an occupation code simply to make a role appear viable.
 
-Verify current rules at the time of each assessment.
-
-Do not guess an occupation code simply to make a role appear eligible.
-
-Classify role viability as:
+Classify the result as:
 
 ### Appears Eligible
 
@@ -148,7 +207,7 @@ Available information supports broad Skilled Worker viability.
 
 ### Likely Eligible but Requires Confirmation
 
-The role appears viable but one or more details still require verification.
+The role appears viable but one or more details require confirmation.
 
 ### Unclear
 
@@ -156,39 +215,85 @@ Not enough reliable information exists.
 
 ### Appears Ineligible
 
-Available information indicates a significant Skilled Worker eligibility problem.
+Available information indicates a significant eligibility problem.
+
+Record:
+
+Role viability:
+
+[RESULT]
+
+Occupation or classification considered:
+
+[RESULT OR UNKNOWN]
+
+Salary assessment:
+
+[RESULT]
+
+Source:
+
+[SOURCE]
+
+Date checked:
+
+[DATE]
+
+Confidence:
+
+[High / Moderate / Low]
+
+Outstanding questions:
+
+[RESULT]
 
 # Stage 2: Sponsorship Gate
 
-Produce this before professional fit scoring.
+Return:
 
-## Sponsorship Verification Output
+## Sponsorship Verification
 
 Employer Sponsor Licence:
 
-[Confirmed Licensed Sponsor / Possible Entity Match / Not Found / Unable to Verify]
+[RESULT]
+
+Legal Entity Matched:
+
+[RESULT]
 
 Vacancy Sponsorship Position:
 
-[Confirmed Available / Appears Possible / Not Stated / Appears Unlikely / Explicitly No Sponsorship]
+[RESULT]
 
 Skilled Worker Role Viability:
 
-[Appears Eligible / Likely Eligible but Requires Confirmation / Unclear / Appears Ineligible]
+[RESULT]
 
 Overall Sponsorship Verdict:
 
 [Proceed / Proceed with Caution / Stop]
 
-Evidence:
+Date Verified:
 
-Summarise the evidence used and distinguish confirmed information from inference.
+[DATE]
+
+Sources Used:
+
+[LIST]
+
+Confidence:
+
+[High / Moderate / Low]
+
+Unresolved Questions:
+
+[RESULT]
 
 ## Proceed
 
 Proceed where:
 
-* The employer is a confirmed licensed sponsor or there is another clearly credible sponsorship route
+* The employer is a confirmed licensed sponsor or another credible sponsorship route has been verified
 * The vacancy does not rule sponsorship out
 * No major Skilled Worker eligibility problem has been identified
 
@@ -196,12 +301,12 @@ Proceed where:
 
 Use this where:
 
-* The employer is licensed but the specific vacancy is silent about sponsorship
-* An entity match still requires confirmation
+* The employer is licensed but the vacancy is silent about sponsorship
+* A legal entity match requires further confirmation
 * Role eligibility requires additional verification
-* Sponsorship may be possible but is not confirmed
+* Sponsorship appears possible but is not confirmed
 
-The uncertainty must remain visible throughout the application assessment.
+Keep the uncertainty visible throughout the assessment.
 
 ## Stop
 
@@ -210,19 +315,19 @@ Stop before CV tailoring where:
 * The vacancy explicitly states that sponsorship is unavailable
 * The employer cannot reasonably be verified as a sponsorship target and no credible alternative evidence exists
 * The role appears clearly incompatible with current Skilled Worker requirements
-* The vacancy requires a form of existing work authorisation that the candidate does not possess
+* The vacancy requires work authorisation that the candidate does not possess
 
 Explain the reason clearly.
 
-Do not continue to CV tailoring unless the candidate explicitly asks to continue despite the sponsorship barrier.
+Do not continue to CV tailoring unless the candidate explicitly asks to continue despite the identified barrier.
 
 # Stage 3: Role Screening
 
-If the sponsorship gate allows the role to continue, assess professional fit.
+If the Sponsorship Gate allows the opportunity to continue, assess professional fit.
 
 Evaluate:
 
-* Alignment with the candidate's target roles
+* Alignment with target roles
 * Professional background
 * Seniority
 * Required years of experience
@@ -237,15 +342,11 @@ Evaluate:
 * Candidate non negotiables
 * Practical hiring barriers
 
-Produce two separate assessments.
-
 ## Capability Fit
 
 Score out of 10.
 
-This assesses how closely the candidate's genuine professional experience matches the work required by the role.
-
-Professional capability should not be artificially reduced because the candidate requires sponsorship.
+Assess how closely the candidate's verified professional experience matches the work required.
 
 Consider:
 
@@ -257,11 +358,15 @@ Consider:
 * Required responsibilities
 * Essential requirements
 
+Do not artificially reduce Capability Fit because sponsorship is required.
+
 ## Realistic Shortlist Probability
 
 Score out of 10.
 
-This assesses how competitive the candidate is likely to be in the actual recruitment process.
+This is a heuristic assessment score.
+
+It is not a statistical prediction of receiving an interview.
 
 Consider:
 
@@ -280,8 +385,6 @@ Consider:
 
 Capability Fit and Realistic Shortlist Probability must remain separate.
 
-A candidate may be highly capable while facing a lower practical shortlist probability.
-
 # Stage 4: Application Decision
 
 Return:
@@ -298,11 +401,11 @@ Application Decision:
 
 [Proceed / Borderline / Skip]
 
-Explain the decision.
+Explain the reasoning.
 
-Use the candidate's personal application rules from `01_user_setup.md`.
+Use the candidate's personal application rules.
 
-If no personal fit threshold has been supplied, 7 out of 10 Capability Fit may be used as a general reference point rather than an automatic rule.
+If no personal threshold has been supplied, 7 out of 10 Capability Fit may be used as a general reference rather than an automatic rule.
 
 If the role clearly violates a non negotiable requirement, recommend skipping.
 
@@ -310,13 +413,11 @@ If recommending Skip, stop before CV tailoring unless the candidate explicitly a
 
 # Stage 5: Employer and Role Research
 
-Where current information is available, research the organisation before tailoring.
+Where current information is available, research:
 
-Look for:
-
-* What the organisation does
+* Organisation
 * Products or services
-* Customer or user groups
+* Customers or users
 * Business model
 * Industry
 * Current strategic priorities
@@ -324,11 +425,11 @@ Look for:
 * Employer terminology
 * Relevant team information
 * UK operations
-* Any current information relevant to the vacancy
+* Information directly relevant to the vacancy
 
-Distinguish facts from assumptions.
+Distinguish confirmed facts from interpretation.
 
-Do not invent company strategy based only on generic industry knowledge.
+Do not invent organisational strategy from generic industry assumptions.
 
 # Stage 6: Job Description Analysis
 
@@ -359,18 +460,18 @@ Do not treat every sentence in the job description as equally important.
 
 Give greater weight to:
 
-* Requirements repeated multiple times
-* Requirements described as essential
-* Responsibilities appearing prominently
+* Repeated requirements
+* Essential requirements
+* Prominently positioned responsibilities
 * Capabilities directly connected to the purpose of the role
-* Requirements connected to measurable organisational outcomes
-* Requirements clearly signalling expected seniority
+* Requirements linked to measurable organisational outcomes
+* Requirements clearly signalling seniority
 
 # Stage 7: Evidence Mapping
 
-Before rewriting the CV, map the highest priority job requirements against verified candidate evidence.
+Before rewriting the CV, map the highest priority requirements against verified candidate evidence.
 
-For each important requirement identify:
+For each requirement identify:
 
 * Requirement
 * Candidate evidence
@@ -393,7 +494,7 @@ Relevant evidence exists but is not an exact match.
 
 ### Partial
 
-Some transferable evidence exists, but an important element is missing.
+Some transferable evidence exists but an important element is missing.
 
 ### Missing
 
@@ -403,7 +504,7 @@ Never invent evidence to convert Partial or Missing into Strong.
 
 If potentially relevant experience may exist but has not been captured, ask the candidate a targeted question.
 
-# Attribution Rules
+## Attribution Rules
 
 Distinguish carefully between:
 
@@ -436,33 +537,37 @@ Only proceed after completing:
 4. Job Description Analysis
 5. Evidence Mapping
 
-Apply:
+Apply the complete instructions in:
 
 `03_cv_tailoring_rules.md`
+
+The AI must have access to that file.
 
 The tailored CV should prioritise verified evidence corresponding to the employer's highest priority requirements.
 
 Do not simply copy language from the job description.
 
-Use employer terminology where it truthfully describes the candidate's experience.
+Use employer terminology only where it truthfully describes the candidate's experience.
 
-Do not include visa or sponsorship details on the CV unless there is a specific strategic reason to do so.
+Do not include detailed visa or sponsorship information on the CV unless there is a specific strategic reason.
 
 # Stage 9: Recruiter Reality Check
 
-After producing the tailored CV, apply:
+After producing the tailored CV, apply the complete instructions in:
 
 `04_recruiter_reality_check.md`
 
-Do not inflate the assessment simply because the CV has already been tailored.
+The AI must have access to that file.
 
-Evaluate the document as if screening it against realistic competing applicants.
+Do not inflate the assessment because the CV has already been tailored.
 
 # Stage 10: Gap Analysis and Factuality Review
 
-Apply:
+Apply the complete instructions in:
 
 `05_gap_and_factuality_check.md`
+
+The AI must have access to that file.
 
 Identify:
 
@@ -470,20 +575,26 @@ Identify:
 * Presentation weaknesses
 * Evidence requiring confirmation
 * Unsupported claims
+* Sponsorship uncertainty
 * Remaining competitive risks
 
 # Required Output Order
 
-If the sponsorship gate fails:
+## If the Sponsorship Gate fails
+
+Return:
 
 1. Sponsorship Verification
-2. Sponsorship Verdict
-3. Reason to stop
-4. Any uncertainty requiring verification
+2. Sources and date checked
+3. Sponsorship Verdict
+4. Reason to stop
+5. Remaining uncertainty
 
 Do not tailor the CV unless explicitly requested.
 
-If sponsorship can proceed but professional fit is weak:
+## If sponsorship can proceed but professional fit is weak
+
+Return:
 
 1. Sponsorship Verification
 2. Capability Fit
@@ -493,25 +604,37 @@ If sponsorship can proceed but professional fit is weak:
 
 Do not tailor unless requested.
 
-If the role should proceed:
+## If the role should proceed
+
+Return:
 
 1. Sponsorship Verification
-2. Sponsorship Verdict
-3. Capability Fit
-4. Realistic Shortlist Probability
-5. Short role assessment
-6. Job Description Analysis
-7. Evidence Mapping
-8. Complete tailored CV
-9. Recruiter Reality Check
-10. Ten Second Recruiter Test
-11. Competitor Reality Check
-12. Gap Analysis
-13. Factuality Review
-14. Final recommended improvements
+2. Sources and date checked
+3. Sponsorship Verdict
+4. Capability Fit
+5. Realistic Shortlist Probability
+6. Short role assessment
+7. Job Description Analysis
+8. Evidence Mapping
+9. Complete tailored CV
+10. Recruiter Reality Check
+11. Ten Second Recruiter Test
+12. Competitor Reality Check
+13. Gap Analysis
+14. Sponsorship Recheck
+15. Factuality Review
+16. Final recommended improvements
+
+# Immigration Information Limitation
+
+This workflow provides application screening based on publicly available information.
+
+It does not provide legal or immigration advice.
+
+Where eligibility depends on individual circumstances, occupation coding, salary calculations or immigration rules that cannot be established confidently, report the issue as requiring confirmation rather than providing a definitive legal conclusion.
 
 # Final Principle
 
-The goal is not to maximise the number of applications.
+The goal is not to maximise application volume.
 
 The goal is to identify realistic sponsorship opportunities where genuine professional fit exists and then produce the strongest truthful application for those opportunities.
