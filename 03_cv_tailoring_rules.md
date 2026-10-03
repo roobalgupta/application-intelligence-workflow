@@ -1,18 +1,18 @@
 # CV Tailoring Rules
 
-Use these rules only after the role has passed the initial screening process and the job description has been analysed.
+Use these rules only after the opportunity has passed sponsorship verification and professional role screening.
 
-The purpose of tailoring is to improve relevance and evidence visibility.
+The purpose of tailoring is to improve relevance, evidence visibility and clarity.
 
 It is not to manufacture suitability.
 
 # 1. Professional Summary
 
-Rewrite the professional summary around the most important requirements of the target role.
+Rewrite the summary around the most important requirements of the target role.
 
-The summary should communicate:
+Communicate:
 
-* The candidate's professional identity
+* Professional identity
 * Relevant level of experience
 * Most relevant expertise
 * Current or recent scope
@@ -20,9 +20,7 @@ The summary should communicate:
 
 Keep the summary concise.
 
-Avoid generic opening phrases that could apply to almost anyone.
-
-Examples to avoid include:
+Avoid generic phrases such as:
 
 * Results driven professional
 * Dynamic professional
@@ -30,37 +28,35 @@ Examples to avoid include:
 * Highly motivated individual
 * Proven track record
 
-Prefer specific evidence and professional context.
+Prefer professional context and evidence.
 
-Do not change the candidate's profession simply to mirror the job title.
+Do not change the candidate's profession simply to mirror the vacancy title.
 
 # 2. Skills
 
-Select and reorder skills according to the job description.
+Select and reorder skills according to the target job description.
 
-Use approximately four logical skill categories where appropriate.
-
-Keep the section lean and scannable.
+Use approximately four logical categories where appropriate.
 
 Prioritise:
 
-* Essential job requirements
+* Essential requirements
 * Repeated employer terminology
 * Relevant technical or functional skills
-* Important tools
+* Relevant tools
 * Seniority appropriate capabilities
 
-Only include skills supported by the candidate's experience.
+Only include skills supported by candidate evidence.
 
-Do not add keywords purely to manipulate an ATS.
+Do not add keywords simply to manipulate an ATS.
 
 # 3. Professional Experience
 
 Give the most space to recent and relevant experience.
 
-Within each role, prioritise bullets that support the target vacancy.
+Within each role, prioritise bullets that directly strengthen the target application.
 
-A strong bullet should demonstrate some combination of:
+A strong bullet may demonstrate:
 
 * Action
 * Scope
@@ -74,13 +70,13 @@ A strong bullet should demonstrate some combination of:
 
 Not every bullet needs every element.
 
-Prioritise clarity over artificially complex sentences.
+Prioritise clarity.
 
 # 4. Seniority
 
 Never increase apparent seniority by changing a factual job title.
 
-Seniority should instead be demonstrated through genuine evidence such as:
+Demonstrate seniority through verified evidence such as:
 
 * Scope of responsibility
 * Complexity
@@ -94,15 +90,13 @@ Seniority should instead be demonstrated through genuine evidence such as:
 * Influence
 * Scale
 
-Only use the seniority signals relevant to the profession and vacancy.
+Only use seniority signals relevant to the profession and vacancy.
 
-Do not assume that people management is necessary for seniority.
-
-Many professions contain senior individual contributor career paths.
+Do not assume that people management is required for seniority.
 
 # 5. Action Verbs
 
-Choose verbs that accurately represent the candidate's responsibility.
+Choose verbs that accurately represent responsibility.
 
 Examples include:
 
@@ -124,11 +118,11 @@ Examples include:
 * Contributed
 * Supported
 
-Never replace a weaker but accurate verb with a stronger inaccurate one.
+Never replace an accurate verb with a stronger but inaccurate one.
 
 # 6. Metrics
 
-Use metrics where they genuinely improve the evidence.
+Use metrics where they strengthen evidence.
 
 Relevant metrics may include:
 
@@ -148,10 +142,11 @@ Relevant metrics may include:
 * Quality
 * Research outcomes
 * Operational outcomes
+* Risk reduction
 
-The appropriate metric depends on the profession.
+The appropriate evidence depends on the profession.
 
-Do not force numerical metrics into work where qualitative impact is more meaningful.
+Do not force numerical metrics into work where qualitative evidence is more meaningful.
 
 Never invent a metric.
 
@@ -159,13 +154,13 @@ Never invent a metric.
 
 Be precise about attribution.
 
-If the candidate contributed to an outcome, say so.
+If the candidate contributed, say contributed.
 
 If a result belongs to a team, do not present it as an individual result.
 
-If revenue was closed by another function, do not automatically describe it as revenue generated personally by the candidate.
+If an outcome belongs to another department, do not automatically claim direct ownership.
 
-If the candidate influenced an outcome but did not own it, preserve that distinction.
+Preserve the distinction between influence and ownership.
 
 # 8. Earlier Experience
 
@@ -179,38 +174,44 @@ The CV should tell a coherent professional story rather than giving every previo
 
 Prioritise education and certifications according to relevance and career stage.
 
-Do not allow long certification lists to take attention away from stronger professional evidence.
+Do not allow long certification lists to distract from stronger professional experience.
 
-Include dates and institutions accurately.
+Keep institutions, qualifications and dates accurate.
 
 # 10. Projects and Portfolio
 
-Include projects where they strengthen evidence for the target vacancy.
+Include projects where they strengthen evidence for the vacancy.
 
-Projects should demonstrate genuine skills, decisions, outputs or results.
+Projects should demonstrate genuine:
+
+* Skills
+* Decisions
+* Outputs
+* Methods
+* Results
 
 Do not describe unfinished concepts as completed projects.
 
-Where relevant, include portfolio or repository links.
+Where useful, include relevant portfolio or repository links.
 
 # 11. ATS Alignment
 
 Use important job description terminology naturally where it truthfully describes the candidate.
 
-Prioritise exact names of:
+Prioritise exact names of relevant:
 
-* Relevant skills
+* Skills
 * Tools
 * Platforms
 * Frameworks
 * Methods
 * Professional disciplines
 
-Do not create awkward sentences simply to increase keyword density.
+Do not create unnatural sentences purely to increase keyword density.
 
 # 12. UK CV Formatting
 
-For UK applications, unless the profession or employer requires otherwise:
+Unless the profession or employer requires otherwise:
 
 * Aim for approximately two pages
 * Use clear section headings
@@ -218,18 +219,23 @@ For UK applications, unless the profession or employer requires otherwise:
 * Keep formatting ATS readable
 * Avoid photographs
 * Avoid unnecessary graphics
-* Avoid decorative design that makes information harder to scan
-* Keep dates and job titles consistent
-* Do not include sensitive immigration information on the CV unless there is a specific reason to do so
+* Avoid decorative elements that reduce readability
+* Keep job titles accurate
+* Keep employment dates consistent
+* Keep contact information professional
+
+Do not place detailed visa or sponsorship information on the CV unless there is a specific reason to do so.
+
+Sponsorship should primarily be handled during opportunity screening and recruiter communication where appropriate.
 
 # 13. Final Editing Standard
 
-Every line should answer at least one of these questions:
+Every important line should help answer at least one of these questions:
 
 * Why is this candidate relevant?
 * What did they actually do?
-* What level were they operating at?
+* At what level were they operating?
 * What changed because of their work?
-* What evidence proves the claim?
+* What evidence supports the claim?
 
-Remove information that adds length without strengthening the application.
+Remove content that consumes space without strengthening the application.
