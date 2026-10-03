@@ -2,47 +2,46 @@
 
 After the CV has been tailored, evaluate it from the perspective of a UK recruiter and hiring manager screening candidates specifically for the target vacancy.
 
-The purpose of this stage is to challenge the application rather than validate the work already completed.
+The purpose of this stage is to challenge the application.
 
-Do not inflate scores because the CV has been tailored.
+Do not inflate scores simply because the CV has already been tailored.
 
-# Scorecard
+Sponsorship viability should remain visible but should not artificially reduce the candidate's professional capability score.
 
-Score every category out of 10.
+# CV Scorecard
 
-## JD Alignment
+Score each category out of 10.
+
+# 1. JD Alignment
 
 Weight: 25%
 
 Assess:
 
-How closely do the summary, skills and experience reflect the employer's highest priority requirements?
+* How closely do the summary, skills and experience reflect the employer's highest priority requirements?
+* Are the strongest relevant requirements easy to identify?
+* Does the evidence address what the employer appears to be hiring this person to solve?
 
-Are the most important requirements easy to identify in the candidate's evidence?
-
-## Quantified Impact
+# 2. Quantified Impact
 
 Weight: 20%
 
 Assess:
 
-Does the CV demonstrate concrete outcomes?
+* Does the CV demonstrate concrete outcomes?
+* Are metrics used where appropriate?
+* Does the CV communicate scale or impact?
+* Are outcomes genuinely attributable to the candidate?
 
-Are metrics used where appropriate?
+Do not penalise professions where qualitative evidence is legitimately more important than numerical metrics.
 
-Does the CV communicate scale, improvement or impact?
-
-Are metrics genuinely attributable to the candidate?
-
-## Seniority Fit
+# 3. Seniority Fit
 
 Weight: 15%
 
-Assess:
+Assess whether the evidence demonstrates the level expected for the vacancy.
 
-Does the evidence demonstrate the level expected for the vacancy?
-
-Consider:
+Consider relevant signals such as:
 
 * Scope
 * Complexity
@@ -52,52 +51,48 @@ Consider:
 * Technical depth
 * Stakeholder responsibility
 * Strategic contribution
+* Commercial responsibility
 
-Use the signals relevant to the profession.
+Use only the signals relevant to the profession.
 
-## ATS Keyword Coverage
-
-Weight: 15%
-
-Assess:
-
-Are the important professional terms from the job description represented naturally?
-
-Are essential tools, skills, methods and disciplines visible where supported by evidence?
-
-Is any major terminology missing?
-
-## Competitive Edge
+# 4. ATS Keyword Coverage
 
 Weight: 15%
 
 Assess:
 
-What makes this candidate credible compared with other plausible applicants?
+* Are important terms from the job description represented naturally?
+* Are essential tools, skills, methods and disciplines visible where supported by evidence?
+* Is important terminology missing?
+* Has keyword use remained truthful?
 
-Does the CV contain evidence that is memorable or distinctive?
+# 5. Competitive Edge
 
-Are there weaknesses that stronger candidates are likely to expose?
+Weight: 15%
 
-## Readability and Polish
+Assess:
+
+* What makes the candidate credible against plausible competing applicants?
+* Is there evidence that is memorable or distinctive?
+* What weaknesses could stronger candidates expose?
+* Does the CV communicate transferable strength where direct experience is missing?
+
+# 6. Readability and Polish
 
 Weight: 10%
 
 Assess:
 
-Can the CV be scanned quickly?
-
-Is important information easy to find?
-
-Is the language concise?
-
-Is the document professionally structured?
-
-Are there unnecessary repetitions or vague claims?
+* Can the CV be scanned quickly?
+* Is important information easy to find?
+* Is the language concise?
+* Is the document professionally structured?
+* Are there unnecessary repetitions?
+* Are vague claims dominating stronger evidence?
 
 # Overall Weighted Score
 
-Calculate the weighted score using:
+Calculate:
 
 JD Alignment × 25%
 
@@ -113,7 +108,7 @@ Readability and Polish × 10%
 
 Return an overall score out of 10.
 
-Provide a one sentence rationale for every category.
+Provide one concise rationale for every category.
 
 # Ten Second Recruiter Test
 
@@ -135,20 +130,20 @@ Identify anything important that is buried or unclear.
 
 # Competitor Reality Check
 
-Describe the realistic candidate archetypes likely to compete for this vacancy.
+Describe realistic candidate archetypes likely to compete for the vacancy.
 
 Do not invent individual candidates.
 
-Depending on the role, competitors may include:
+Possible competitor types may include:
 
 * Someone already holding the target title
-* Someone from the employer's industry
+* Someone from the same industry
 * Someone with deeper specialist expertise
 * Someone with stronger technical experience
 * Someone with more direct leadership experience
 * Someone with more years of relevant experience
-* Someone with fewer practical hiring barriers
-* Someone with highly relevant employer or customer exposure
+* Someone with more direct customer or employer exposure
+* Someone who does not require sponsorship
 
 Compare the candidate against these archetypes using evidence.
 
@@ -160,8 +155,40 @@ Identify:
 
 Do not manufacture a competitive advantage.
 
+# Practical Hiring Context
+
+Report practical hiring factors separately from CV quality.
+
+Include where relevant:
+
+Sponsor Licence Status:
+
+[INSERT VERIFIED RESULT]
+
+Vacancy Sponsorship Position:
+
+[INSERT VERIFIED RESULT]
+
+Skilled Worker Role Viability:
+
+[INSERT RESULT]
+
+Current Sponsorship Risk:
+
+[Low / Moderate / High]
+
+Other Practical Barriers:
+
+[INSERT]
+
+Do not deduct points from professional capability simply because sponsorship is required.
+
+Sponsorship should instead influence Realistic Shortlist Probability and the practical application decision.
+
 # Final Recruiter Question
 
 Answer:
 
 If this CV were one of many applications for this exact vacancy, what would make a recruiter continue reading, and what could make them hesitate?
+
+Keep professional weaknesses and sponsorship related concerns clearly separated.
