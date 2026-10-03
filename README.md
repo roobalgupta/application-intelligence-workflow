@@ -1,6 +1,6 @@
 # UK Sponsorship Application Intelligence Workflow
 
-A role agnostic AI workflow for professionals applying for UK jobs who require Skilled Worker visa sponsorship.
+A role agnostic AI application workflow for professionals applying for UK jobs who require Skilled Worker visa sponsorship.
 
 The workflow combines sponsorship verification, opportunity screening, job description analysis, evidence mapping, CV tailoring and recruiter level quality checks into one structured application process.
 
@@ -8,7 +8,17 @@ The profession changes.
 
 The methodology does not.
 
-A marketer, data scientist, software engineer, product manager, finance professional, HR professional or candidate from another field can use the same workflow by replacing only their own professional information, CV and target roles.
+A marketer, data scientist, software engineer, product manager, finance professional, HR professional or candidate from another field can use the same workflow by replacing only their own professional context, Master CV and target opportunity.
+
+## Version
+
+Version 1.0
+
+Framework updated: October 2026
+
+UK immigration rules, sponsor status and vacancy information can change.
+
+Current sponsorship information should always be verified using reliable and up to date sources at the time of application.
 
 ## Why This Exists
 
@@ -20,7 +30,7 @@ Most AI CV workflows begin with:
 >
 > Rewrite the CV.
 
-For candidates requiring UK sponsorship, that can mean spending significant time tailoring an application before answering a more important question:
+For candidates requiring UK sponsorship, this can mean spending significant time tailoring an application before answering a more important question:
 
 > Is this employer and vacancy realistically worth pursuing for someone who requires sponsorship?
 
@@ -37,20 +47,21 @@ The workflow follows this sequence:
 1. Understand the candidate
 2. Verify the employer's sponsorship position
 3. Check the specific vacancy for sponsorship restrictions
-4. Check the role's broad Skilled Worker viability where enough information is available
-5. Assess whether the opportunity is worth pursuing
+4. Assess broad Skilled Worker role viability where sufficient information exists
+5. Decide whether the opportunity deserves further application effort
 6. Analyse what the employer is actually hiring for
-7. Identify the most important requirements
+7. Identify the highest priority requirements
 8. Map those requirements against verified candidate evidence
 9. Tailor the CV
-10. Challenge the CV from a recruiter perspective
-11. Compare the application against realistic competition
+10. Challenge the resulting CV from a recruiter perspective
+11. Compare the candidate against realistic competition
 12. Identify remaining gaps
 13. Check important claims for factual accuracy
+14. Produce the final application assessment
 
 The objective is not to make every candidate appear suitable for every vacancy.
 
-The objective is to identify genuine opportunities and communicate genuine fit as strongly and credibly as possible.
+The objective is to identify realistic sponsorship opportunities where genuine professional fit exists and communicate that fit as strongly and credibly as possible.
 
 ## Who This Is For
 
@@ -58,17 +69,18 @@ This workflow is designed for candidates who:
 
 * Are applying for jobs in the UK
 * Require Skilled Worker sponsorship now or in the future
-* Want to reduce time spent on unsuitable vacancies
-* Want a structured way to assess job descriptions
-* Want their CV tailored using verified experience
-* Want a realistic assessment rather than automatic encouragement to apply
-* Want sponsorship viability and professional capability assessed separately
+* Want to reduce time spent applying for unsuitable vacancies
+* Want sponsorship viability checked before CV tailoring
+* Want job descriptions analysed systematically
+* Want their CV tailored using verified evidence
+* Want realistic feedback rather than automatic encouragement to apply
+* Want professional capability and practical hiring difficulty assessed separately
 
 ## Core Principle
 
 **Fixed workflow. Variable professional context.**
 
-The candidate provides their own professional information.
+The candidate supplies their own information.
 
 The framework handles the analysis.
 
@@ -86,20 +98,21 @@ The framework handles the analysis.
 * Sponsorship timing
 * Personal application constraints
 * Master CV
-* Additional verified experience
+* Additional verified evidence
 * Portfolio or supporting material where relevant
 * The job description being assessed
 
 ### The workflow determines
 
-* Whether the employer is currently identifiable as a licensed sponsor
-* Whether the specific vacancy offers, excludes or is unclear about sponsorship
-* Whether the role appears broadly viable for Skilled Worker sponsorship where enough information exists
-* Whether the opportunity should proceed
+* Whether the employer can be verified as a licensed sponsor
+* Which legal entity appears to hold the licence
+* Whether the specific vacancy confirms, excludes or is unclear about sponsorship
+* Whether the role appears broadly viable under current Skilled Worker requirements
+* Whether the opportunity should continue
 * The most important requirements in the job description
 * Which requirements are essential
 * Which requirements are preferred
-* What signals seniority in the specific role
+* What signals seniority in the specific vacancy
 * Which candidate evidence is most relevant
 * Where genuine experience gaps exist
 * How the CV should be prioritised
@@ -132,6 +145,8 @@ Recruiter Reality Check
 Competitor Reality Check
       ↓
 Gap Analysis
+      ↓
+Sponsorship Recheck
       ↓
 Factuality Check
       ↓
