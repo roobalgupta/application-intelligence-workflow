@@ -1,14 +1,12 @@
 # Candidate Setup
 
-Complete this file before using the UK Sponsorship Application Intelligence Workflow.
+Complete this template before using the UK Sponsorship Application Intelligence Workflow.
 
-This is the candidate specific layer of the system.
+This file contains the information that changes from candidate to candidate.
 
-The workflow is designed for professionals applying for UK roles who require Skilled Worker sponsorship now or in the future.
+The application methodology itself should not be rewritten.
 
-Only the information in this file should change from candidate to candidate.
-
-The application methodology itself is contained in the remaining workflow files.
+This workflow is designed for professionals applying for UK roles who require Skilled Worker sponsorship now or in the future.
 
 If a section does not apply, write:
 
@@ -16,7 +14,7 @@ Not applicable
 
 Do not invent information simply to complete a field.
 
-# 1. Professional Profile
+## 1. Professional Profile
 
 Professional field:
 
@@ -38,7 +36,7 @@ Current location:
 
 [INSERT]
 
-# 2. Target Roles
+## 2. Target Roles
 
 Primary target role:
 
@@ -56,7 +54,7 @@ Target seniority:
 
 [INSERT]
 
-# 3. Industry Preferences
+## 3. Industry Preferences
 
 Preferred industries:
 
@@ -70,7 +68,7 @@ Industries I want to avoid:
 
 [INSERT]
 
-# 4. Location Preferences
+## 4. Location Preferences
 
 Preferred UK locations:
 
@@ -88,7 +86,7 @@ Maximum acceptable commute where relevant:
 
 [INSERT]
 
-# 5. Salary Expectations
+## 5. Salary Expectations
 
 Minimum acceptable salary:
 
@@ -102,7 +100,7 @@ Any salary flexibility:
 
 [INSERT]
 
-# 6. Employment Preferences
+## 6. Employment Preferences
 
 Preferred employment type:
 
@@ -112,7 +110,7 @@ Employment types I want to avoid:
 
 [INSERT]
 
-# 7. UK Immigration and Sponsorship Context
+## 7. UK Immigration and Sponsorship Context
 
 Current UK visa or immigration status:
 
@@ -138,21 +136,21 @@ Any sponsorship timing considerations:
 
 [INSERT]
 
-# 8. Personal Application Rules
+## 8. Personal Application Rules
 
 Automatically skip a role when:
 
 [INSERT]
 
-Examples may include:
+Possible examples include:
 
 * Salary is below my minimum
 * Location is unsuitable
 * Employment type is unacceptable
 * Role is significantly above or below my target seniority
-* Employer is not a realistic sponsorship target
+* Employer cannot be verified as a realistic sponsorship target
 * Vacancy explicitly states that sponsorship is unavailable
-* Vacancy requires unrestricted existing UK work rights that I do not have
+* Vacancy requires work rights that I do not possess
 * An essential professional requirement is completely missing from my background
 
 Strongly consider applying when:
@@ -163,7 +161,7 @@ Other non negotiables:
 
 [INSERT]
 
-# 9. Master CV
+## 9. Master CV
 
 Paste your complete Master CV below.
 
@@ -185,7 +183,7 @@ It does not need to be limited to two pages.
 
 [PASTE MASTER CV HERE]
 
-# 10. Additional Verified Evidence
+## 10. Additional Verified Evidence
 
 Use this section for genuine experience that is not currently captured properly in the Master CV.
 
@@ -206,7 +204,7 @@ This may include:
 
 For each important item, use the following structure.
 
-## Evidence Item
+### Evidence Item
 
 Organisation or project:
 
@@ -244,7 +242,7 @@ Anything that must not be overstated:
 
 [INSERT]
 
-# 11. Portfolio and Supporting Material
+## 11. Portfolio and Supporting Material
 
 LinkedIn:
 
@@ -266,7 +264,7 @@ Other professional supporting material:
 
 [INSERT]
 
-# Source of Truth Rule
+## Source of Truth Rule
 
 Only verified candidate information should be treated as fact.
 
@@ -279,3 +277,9 @@ Job titles must not be changed simply to improve alignment.
 Metrics must not be created or estimated without a defensible basis.
 
 Team or company results must not be presented as individual results without evidence.
+
+## Privacy Rule
+
+Do not commit a completed version of this file containing personal CV information, contact details, visa information or immigration dates to a public repository.
+
+Use the public version as a blank template and complete it privately.
