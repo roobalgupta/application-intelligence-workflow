@@ -1,12 +1,20 @@
 # Candidate Setup
 
-Complete this file before using the Application Intelligence Workflow.
+Complete this file before using the UK Sponsorship Application Intelligence Workflow.
 
 This is the candidate specific layer of the system.
 
-Only the information in this file should change from person to person. The workflow, assessment logic, CV tailoring methodology and quality checks are handled separately by the framework.
+The workflow is designed for professionals applying for UK roles who require Skilled Worker sponsorship now or in the future.
 
-Do not remove sections that are not relevant. Write "Not applicable" instead.
+Only the information in this file should change from candidate to candidate.
+
+The application methodology itself is contained in the remaining workflow files.
+
+If a section does not apply, write:
+
+Not applicable
+
+Do not invent information simply to complete a field.
 
 # 1. Professional Profile
 
@@ -64,15 +72,19 @@ Industries I want to avoid:
 
 # 4. Location Preferences
 
-Preferred locations:
+Preferred UK locations:
 
 [INSERT]
 
-Remote, hybrid or onsite preferences:
+Remote, hybrid or onsite preference:
 
 [INSERT]
 
-Relocation preferences:
+Relocation preference:
+
+[INSERT]
+
+Maximum acceptable commute where relevant:
 
 [INSERT]
 
@@ -86,6 +98,10 @@ Target salary range:
 
 [INSERT]
 
+Any salary flexibility:
+
+[INSERT]
+
 # 6. Employment Preferences
 
 Preferred employment type:
@@ -96,17 +112,29 @@ Employment types I want to avoid:
 
 [INSERT]
 
-# 7. Work Authorisation
+# 7. UK Immigration and Sponsorship Context
 
-Current work authorisation:
+Current UK visa or immigration status:
 
 [INSERT]
 
-Future sponsorship requirement:
+Current permission expiry date where relevant:
 
-[INSERT IF RELEVANT]
+[INSERT]
 
-Any restrictions that could affect applications:
+When will employer sponsorship be required?
+
+[INSERT]
+
+Are you currently able to work in the UK before sponsorship is required?
+
+[INSERT]
+
+Any known work authorisation restrictions:
+
+[INSERT]
+
+Any sponsorship timing considerations:
 
 [INSERT]
 
@@ -114,7 +142,7 @@ Any restrictions that could affect applications:
 
 Automatically skip a role when:
 
-[INSERT YOUR CONDITIONS]
+[INSERT]
 
 Examples may include:
 
@@ -122,18 +150,36 @@ Examples may include:
 * Location is unsuitable
 * Employment type is unacceptable
 * Role is significantly above or below my target seniority
-* An essential professional requirement is completely missing from my experience
-* The employer explicitly states that my work authorisation situation cannot be supported
+* Employer is not a realistic sponsorship target
+* Vacancy explicitly states that sponsorship is unavailable
+* Vacancy requires unrestricted existing UK work rights that I do not have
+* An essential professional requirement is completely missing from my background
 
-Strongly consider a role when:
+Strongly consider applying when:
 
-[INSERT YOUR CONDITIONS]
+[INSERT]
+
+Other non negotiables:
+
+[INSERT]
 
 # 9. Master CV
 
-Paste the complete version of your CV below.
+Paste your complete Master CV below.
 
-This should act as the source of truth for employment history, education, skills, responsibilities and achievements.
+The Master CV should act as the source of truth for:
+
+* Employment history
+* Job titles
+* Dates
+* Skills
+* Responsibilities
+* Achievements
+* Metrics
+* Education
+* Certifications
+* Projects
+* Tools
 
 It does not need to be limited to two pages.
 
@@ -151,14 +197,14 @@ This may include:
 * Technical work
 * Commercial results
 * Research
-* Leadership experience
+* Leadership
 * Process improvements
 * Certifications
-* Portfolio projects
-* Volunteering where professionally relevant
+* Portfolio work
+* Relevant volunteering
 * Tools and platforms
 
-For each item, include as much context as possible.
+For each important item, use the following structure.
 
 ## Evidence Item
 
@@ -174,7 +220,11 @@ What I personally did:
 
 [INSERT]
 
-Tools or methods used:
+Tools, methods or systems used:
+
+[INSERT]
+
+Scale:
 
 [INSERT]
 
@@ -186,32 +236,46 @@ Metric or concrete result:
 
 [INSERT]
 
-Anything I need to be careful not to overclaim:
+Was this an individual, team, department or company result?
+
+[INSERT]
+
+Anything that must not be overstated:
 
 [INSERT]
 
 # 11. Portfolio and Supporting Material
 
-Portfolio:
-
-[INSERT LINK OR NOT APPLICABLE]
-
 LinkedIn:
 
 [INSERT]
 
-GitHub or technical portfolio:
+Portfolio:
 
 [INSERT IF RELEVANT]
 
-Other relevant supporting material:
+GitHub:
+
+[INSERT IF RELEVANT]
+
+Personal website:
+
+[INSERT IF RELEVANT]
+
+Other professional supporting material:
 
 [INSERT]
 
-# Important Rule
+# Source of Truth Rule
 
 Only verified candidate information should be treated as fact.
 
-If information is unclear, incomplete or unsupported, the workflow should ask the candidate to confirm it before using it in the CV.
+If information is incomplete, ambiguous or unsupported, the workflow should ask the candidate to confirm it before using it.
 
 Missing experience must never be invented.
+
+Job titles must not be changed simply to improve alignment.
+
+Metrics must not be created or estimated without a defensible basis.
+
+Team or company results must not be presented as individual results without evidence.
