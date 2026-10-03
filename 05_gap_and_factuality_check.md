@@ -75,17 +75,20 @@ Only incorporate new information after the candidate confirms it.
 
 # Part 3: Sponsorship Recheck
 
-Before finalising the application, verify that no new information changes the sponsorship assessment.
+Before finalising the application, confirm that no new information changes the sponsorship assessment.
 
-Confirm:
+Verify:
 
 * Employer sponsor licence result
+* Legal entity matched
 * Specific vacancy sponsorship wording
-* Any right to work restriction
-* Current Skilled Worker role viability
-* Any material salary concern
-* Any material occupation eligibility concern
-* Any uncertainty that should remain visible
+* Right to work restrictions
+* Skilled Worker role viability
+* Material salary concerns
+* Material occupation eligibility concerns
+* Date sponsorship information was checked
+* Sources used
+* Remaining uncertainty
 
 Do not convert uncertainty into a positive result without evidence.
 
@@ -163,6 +166,7 @@ If not, revise the claim.
 Before considering the CV ready, confirm:
 
 * Sponsorship verification has been completed
+* Sources and date checked are recorded
 * No explicit sponsorship barrier has been ignored
 * The first half of page one explains why the candidate fits
 * The strongest evidence is visible
@@ -182,12 +186,13 @@ Before considering the CV ready, confirm:
 Provide:
 
 1. Final Sponsorship Status
-2. Most important remaining professional gaps
-3. Improvements that can be made immediately
-4. Questions requiring candidate confirmation
-5. Claims that should be softened or removed
-6. Final recommended CV changes
-7. Final application risks that remain unresolved
+2. Sponsorship sources and verification date
+3. Most important remaining professional gaps
+4. Improvements that can be made immediately
+5. Questions requiring candidate confirmation
+6. Claims that should be softened or removed
+7. Final recommended CV changes
+8. Final application risks that remain unresolved
 
 # Final Rule
 
