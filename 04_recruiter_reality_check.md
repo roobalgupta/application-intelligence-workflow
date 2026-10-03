@@ -6,13 +6,13 @@ The purpose of this stage is to challenge the application.
 
 Do not inflate scores simply because the CV has already been tailored.
 
-Sponsorship viability should remain visible but should not artificially reduce the candidate's professional capability score.
+Sponsorship viability should remain visible but should not artificially reduce professional capability.
 
 # CV Scorecard
 
-Score each category out of 10.
+Score every category out of 10.
 
-# 1. JD Alignment
+## 1. JD Alignment
 
 Weight: 25%
 
@@ -22,7 +22,7 @@ Assess:
 * Are the strongest relevant requirements easy to identify?
 * Does the evidence address what the employer appears to be hiring this person to solve?
 
-# 2. Quantified Impact
+## 2. Quantified Impact
 
 Weight: 20%
 
@@ -33,9 +33,9 @@ Assess:
 * Does the CV communicate scale or impact?
 * Are outcomes genuinely attributable to the candidate?
 
-Do not penalise professions where qualitative evidence is legitimately more important than numerical metrics.
+Do not penalise professions where qualitative evidence is legitimately more appropriate than numerical metrics.
 
-# 3. Seniority Fit
+## 3. Seniority Fit
 
 Weight: 15%
 
@@ -53,9 +53,9 @@ Consider relevant signals such as:
 * Strategic contribution
 * Commercial responsibility
 
-Use only the signals relevant to the profession.
+Use only signals relevant to the profession.
 
-# 4. ATS Keyword Coverage
+## 4. ATS Keyword Coverage
 
 Weight: 15%
 
@@ -66,7 +66,7 @@ Assess:
 * Is important terminology missing?
 * Has keyword use remained truthful?
 
-# 5. Competitive Edge
+## 5. Competitive Edge
 
 Weight: 15%
 
@@ -77,7 +77,7 @@ Assess:
 * What weaknesses could stronger candidates expose?
 * Does the CV communicate transferable strength where direct experience is missing?
 
-# 6. Readability and Polish
+## 6. Readability and Polish
 
 Weight: 10%
 
@@ -108,7 +108,7 @@ Readability and Polish × 10%
 
 Return an overall score out of 10.
 
-Provide one concise rationale for every category.
+Provide one concise rationale for each category.
 
 # Ten Second Recruiter Test
 
@@ -157,21 +157,33 @@ Do not manufacture a competitive advantage.
 
 # Practical Hiring Context
 
-Report practical hiring factors separately from CV quality.
+Report practical hiring considerations separately from CV quality.
 
 Include where relevant:
 
 Sponsor Licence Status:
 
-[INSERT VERIFIED RESULT]
+[RESULT]
+
+Legal Entity Matched:
+
+[RESULT]
 
 Vacancy Sponsorship Position:
 
-[INSERT VERIFIED RESULT]
+[RESULT]
 
 Skilled Worker Role Viability:
 
-[INSERT RESULT]
+[RESULT]
+
+Verification Date:
+
+[DATE]
+
+Verification Confidence:
+
+[High / Moderate / Low]
 
 Current Sponsorship Risk:
 
@@ -179,11 +191,17 @@ Current Sponsorship Risk:
 
 Other Practical Barriers:
 
-[INSERT]
+[RESULT]
 
 Do not deduct points from professional capability simply because sponsorship is required.
 
 Sponsorship should instead influence Realistic Shortlist Probability and the practical application decision.
+
+# Realistic Shortlist Probability Reminder
+
+Realistic Shortlist Probability is a heuristic assessment score.
+
+It is not a mathematical probability or guaranteed estimate of receiving an interview.
 
 # Final Recruiter Question
 
