@@ -6,9 +6,9 @@ The purpose of tailoring is to improve relevance, evidence visibility and clarit
 
 It is not to manufacture suitability.
 
-# 1. Professional Summary
+## 1. Professional Summary
 
-Rewrite the summary around the most important requirements of the target role.
+Rewrite the professional summary around the highest priority requirements of the target role.
 
 Communicate:
 
@@ -32,7 +32,7 @@ Prefer professional context and evidence.
 
 Do not change the candidate's profession simply to mirror the vacancy title.
 
-# 2. Skills
+## 2. Skills
 
 Select and reorder skills according to the target job description.
 
@@ -50,7 +50,7 @@ Only include skills supported by candidate evidence.
 
 Do not add keywords simply to manipulate an ATS.
 
-# 3. Professional Experience
+## 3. Professional Experience
 
 Give the most space to recent and relevant experience.
 
@@ -68,11 +68,11 @@ A strong bullet may demonstrate:
 * Metric
 * Organisational relevance
 
-Not every bullet needs every element.
+Not every bullet requires every element.
 
 Prioritise clarity.
 
-# 4. Seniority
+## 4. Seniority
 
 Never increase apparent seniority by changing a factual job title.
 
@@ -94,7 +94,7 @@ Only use seniority signals relevant to the profession and vacancy.
 
 Do not assume that people management is required for seniority.
 
-# 5. Action Verbs
+## 5. Action Verbs
 
 Choose verbs that accurately represent responsibility.
 
@@ -120,7 +120,7 @@ Examples include:
 
 Never replace an accurate verb with a stronger but inaccurate one.
 
-# 6. Metrics
+## 6. Metrics
 
 Use metrics where they strengthen evidence.
 
@@ -150,7 +150,7 @@ Do not force numerical metrics into work where qualitative evidence is more mean
 
 Never invent a metric.
 
-# 7. Ownership and Attribution
+## 7. Ownership and Attribution
 
 Be precise about attribution.
 
@@ -162,7 +162,7 @@ If an outcome belongs to another department, do not automatically claim direct o
 
 Preserve the distinction between influence and ownership.
 
-# 8. Earlier Experience
+## 8. Earlier Experience
 
 Reduce detail as experience becomes older or less relevant.
 
@@ -170,15 +170,15 @@ Retain older evidence where it directly strengthens the current application.
 
 The CV should tell a coherent professional story rather than giving every previous responsibility equal space.
 
-# 9. Education and Certifications
+## 9. Education and Certifications
 
 Prioritise education and certifications according to relevance and career stage.
 
-Do not allow long certification lists to distract from stronger professional experience.
+Do not allow long certification lists to distract from stronger professional evidence.
 
 Keep institutions, qualifications and dates accurate.
 
-# 10. Projects and Portfolio
+## 10. Projects and Portfolio
 
 Include projects where they strengthen evidence for the vacancy.
 
@@ -194,7 +194,7 @@ Do not describe unfinished concepts as completed projects.
 
 Where useful, include relevant portfolio or repository links.
 
-# 11. ATS Alignment
+## 11. ATS Alignment
 
 Use important job description terminology naturally where it truthfully describes the candidate.
 
@@ -209,7 +209,7 @@ Prioritise exact names of relevant:
 
 Do not create unnatural sentences purely to increase keyword density.
 
-# 12. UK CV Formatting
+## 12. UK CV Formatting
 
 Unless the profession or employer requires otherwise:
 
@@ -224,11 +224,11 @@ Unless the profession or employer requires otherwise:
 * Keep employment dates consistent
 * Keep contact information professional
 
-Do not place detailed visa or sponsorship information on the CV unless there is a specific reason to do so.
+Do not place detailed visa or sponsorship information on the CV unless there is a specific strategic reason.
 
 Sponsorship should primarily be handled during opportunity screening and recruiter communication where appropriate.
 
-# 13. Final Editing Standard
+## 13. Final Editing Standard
 
 Every important line should help answer at least one of these questions:
 
